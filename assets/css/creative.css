@@ -61,7 +61,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.5;
@@ -88,6 +88,8 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
 }
 
 abbr[title],
@@ -369,7 +371,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   line-height: 1.2;
 }
@@ -9573,7 +9575,7 @@ hr.light {
 }
 
 .btn {
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
 }
 
 .btn-xl {
@@ -9596,14 +9598,14 @@ hr.light {
 }
 
 #mainNav .navbar-brand {
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   color: #212529;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
   color: #6c757d;
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   font-size: 0.9rem;
   padding: 0.75rem 0;
@@ -9719,7 +9721,7 @@ header.masthead h1 {
 }
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category {
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;

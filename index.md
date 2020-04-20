@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: WORKGARDEN @ CONCISO
+  title: WORKGARDEN ... for you
   action: # action button is optional
     label: Find Out More
     url: '#workgarden'
@@ -78,30 +78,6 @@ sections:
         icon: 9.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Mehr über CONCISO erfahren
-    actions:
-      - title: conciso.de
-        url: https://conciso.de
-        class: btn-light
-
-  - type: address.html
-    section_id: address
-    title: So finden Sie uns!
-    background_style: bg-info text-white
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.6841635868645!2d7.520305815544835!3d51.500663119017034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b917045edd95ab%3A0x8782a144767f55d0!2sWorkgarden%40Conciso!5e0!3m2!1sde!2sde!4v1587384520208!5m2!1sde!2sde"
-    address:
-      title: Anschrift
-      text: >
-        Pariser Bogen 7<br/>
-        44269 Dortmund<br/>
-        Deutschland
-    phone:
-      title: Telefon
-      text: >
-        +49 231 5648 450
-
   - type: events.html
     section_id: events
     title: Nächste Events
@@ -120,11 +96,12 @@ sections:
           **Herz über Kopf … oder vielleicht doch umgekehrt?**
         text: >-
           Vom Bauchgefühl zu datenfundierten Marketing Entscheidungen
+  
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Sprechen Sie uns an. Wir erläutern Ihnen gerne, wie Sie unseren Workgarden nutzen können.
+      Wir erläutern Ihnen gerne, wie Sie unseren Workgarden nutzen können.
     actions:
     - title: +49 231 5648 450
       icon: fa-phone
@@ -147,8 +124,28 @@ sections:
       icon: fa-linkedin
       icon_type: fab
       url: 'https://www.linkedin.com/company/conciso/'
-    - title: XING
-      icon: fa-xing
-      icon_type: fab
-      url: 'https://www.xing.com/companies/conciso'
+  
+  - type: address.html
+    section_id: address
+    title: So finden Sie uns!
+    background_style: bg-info text-white
+    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.6841635868645!2d7.520305815544835!3d51.500663119017034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b917045edd95ab%3A0x8782a144767f55d0!2sWorkgarden%40Conciso!5e0!3m2!1sde!2sde!4v1587384520208!5m2!1sde!2sde"
+    address:
+      title: Anschrift
+      text: >
+        Pariser Bogen 7<br/>
+        44269 Dortmund<br/>
+        Deutschland
+    phone:
+      title: Telefon
+      text: >
+        +49 231 5648 450
+
+  - type: aside.html
+    section_id: aside
+    title: Mehr über CONCISO erfahren!
+    actions:
+      - title: conciso.de
+        url: https://conciso.de
+        class: btn-light
 ---

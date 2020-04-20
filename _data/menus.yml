@@ -5,10 +5,10 @@
 header:
 - title: Workgarden
   url: /#workgarden
-- title: Services
+- title: Angebote
   url: /#services
-- title: Adresse
-  url: /#address
+- title: Impressionen
+  url: /#portfolio
 - title: Events
   url: /#events
 - title: Kontakt
