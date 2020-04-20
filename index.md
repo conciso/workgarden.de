@@ -23,7 +23,7 @@ sections:
     #background_style: bg-info
     title: Wie können Sie den Workgarden nutzen?
     services:
-      - title: Business Events
+      - title: Events
         text: Sie suchen eine coole Location für Ihre nächste Veranstaltung?
         icon: fa-calendar-check
       - title: Workshops
