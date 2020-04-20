@@ -1,0 +1,8 @@
+copyright: '&copy; Conciso GmbH'
+links:
+  - text: Impressum
+    url: 'https://conciso.de/impressum/'
+    new_window: true
+  - text: Datenschutz
+    url: 'https://conciso.de/datenschutz/'
+    new_window: true
