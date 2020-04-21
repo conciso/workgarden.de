@@ -135,11 +135,6 @@ sections:
     text: >-
       Wir erläutern Ihnen gerne, wie Sie unseren Workgarden nutzen können.
     actions:
-    - title: +49 231 5648 450
-      icon: fa-phone
-    - title: E-Mail
-      icon: fa-envelope
-      url: mailto:info@conciso.de
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
@@ -156,6 +151,12 @@ sections:
       icon: fa-linkedin
       icon_type: fab
       url: 'https://www.linkedin.com/company/conciso/'
+    - title: XING
+      icon: fa-xing
+      icon_type: fab
+      url: 'https://www.xing.com/companies/conciso'
+    - title: +49 231 5648 450
+      icon: fa-phone
   
   - type: address.html
     section_id: address
