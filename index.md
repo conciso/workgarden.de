@@ -13,8 +13,8 @@ sections:
     title: Agiles Arbeiten in inspirierender Atmosphäre
     text: Im CONCISO WORKGARDEN finden Sie alles für agiles und innovatives Arbeiten. Für erfolgreiche Events, Workshops oder einfach gutes Co-Working. 
     actions:
-      - title: Kontakt aufnehmen!
-        url: '#contacts'
+      - title: Impressionen
+        url: '#portfolio'
         class: btn-light
 
   - type: services.html
@@ -22,13 +22,13 @@ sections:
     #background_style: bg-info
     title: Your Space
     services:
-      - title: Events
+      - title: YOUR EVENT
         text: Sie suchen eine coole Location für Ihre nächste Veranstaltung?
         icon: fa-calendar-check
-      - title: Workshops
+      - title: YOUR WORKSHOP
         text: Sie planen einen Workshop oder ein Training?
         icon: fa-chalkboard-teacher
-      - title: Co-Working
+      - title: CO-WORKING
         text: Sie sind Freelancer und suchen eine inspiriende Arbeitsumgebung?
         icon: fa-laptop-code
 
@@ -37,11 +37,12 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
+      - title: YOUR EVENT
+        text: Sie suchen eine coole Location für Ihre nächste Veranstaltung?
+        icon: your-workshop.jpg
+        url: '#'
       - title: Meeting Rooms
         text: In der passenden Größe, mit Video-Equipment, digitalen und klassischen Whiteboards.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
         icon: meeting-room-suedtribuene.jpg
         url: '#'
       - title: Huddle Rooms
@@ -60,6 +61,10 @@ sections:
         text: This is a very short project description.
         icon: 5.jpg
         url: '#'
+      - title: YOUR WORKSHOP
+        text: Sie planen einen Workshop oder ein Training?
+        icon: your-workshop.jpg
+        url: '#'
       - title: Project 6
         text: This is a very short project description.
         icon: 6.jpg
@@ -76,12 +81,40 @@ sections:
         text: This is a very short project description.
         icon: 9.jpg
         url: '#'
+      - title: Project 1
+        text: This is a very short project description.
+        icon: 1.jpg
+        url: '#'
+      - title: YOU CO-WORKING
+        text: Sie sind Freelancer und suchen eine inspiriende Arbeitsumgebung?
+        icon: your-workshop.jpg
+        url: '#'
+      - title: Project 6
+        text: This is a very short project description.
+        icon: 6.jpg
+        url: '#'
+      - title: Project 7
+        text: This is a very short project description.
+        icon: 7.jpg
+        url: '#'
+      - title: Project 8
+        text: This is a very short project description.
+        icon: 8.jpg
+        url: '#'
+      - title: Project 9
+        text: This is a very short project description.
+        icon: 9.jpg
+        url: '#'
+      - title: Project 1
+        text: This is a very short project description.
+        icon: 1.jpg
+        url: '#'
 
   - type: events.html
     section_id: events
     title: Nächste Events
     background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/events/stay-tuned.jpg
     actions:
       - image: assets/img/events/webinar-icon.jpg
         title: >+
@@ -89,7 +122,7 @@ sections:
           **Masterclass Online-Meetings**
         text: >-
           In unserem Webinar erfahren Sie, wie Sie Ihre Online-Meetings noch besser machen, welche Möglichkeiten es abseits des üblichen Screensharing gibt.
-      - image: assets/img/events/webinar-icon.jpg
+      - image: assets/img/events/meetup-herz-kopf.jpg
         title: >+
           November 5 @ 18:00 - 21:00
           **Herz über Kopf … oder vielleicht doch umgekehrt?**

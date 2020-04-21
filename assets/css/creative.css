@@ -9594,7 +9594,7 @@ hr.light {
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.3s ease;
 }
 
 #mainNav .navbar-brand {
@@ -9625,13 +9625,13 @@ hr.light {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 0.9);
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 0.9);
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
