@@ -20,7 +20,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: Your Space ...
+    title: Your Space
     services:
       - title: Events
         text: Sie suchen eine coole Location für Ihre nächste Veranstaltung?
