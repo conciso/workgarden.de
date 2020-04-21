@@ -3,25 +3,24 @@ layout: home
 header:
   title: WORKGARDEN ... for you
   action: # action button is optional
-    label: Find Out More
+    label: EVENTS, WORKSHOPS & CO-WORKING ...
     url: '#workgarden'
-
 
 sections:
   - type: call-to-action.html
     section_id: workgarden
     background_style: bg-primary
-    title: Agiles und innovatives Arbeiten
-    text: In unserem CONCISO Workgarden finden Sie alles für agiles, innovatives Arbeiten - ob allein oder im Team. Erleben Sie die inspirierende Atmosphäre und TODO ...
+    title: Agiles Arbeiten in inspirierender Atmosphäre
+    text: Im CONCISO WORKGARDEN finden Sie alles für agiles und innovatives Arbeiten. Für erfolgreiche Events, Workshops oder einfach gutes Co-Working. 
     actions:
       - title: Kontakt aufnehmen!
-        url: '#contacts'
+        url: '#contact'
         class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: Wie können Sie den Workgarden nutzen?
+    title: Your Space ...
     services:
       - title: Events
         text: Sie suchen eine coole Location für Ihre nächste Veranstaltung?
@@ -38,24 +37,24 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Meeting Rooms
+        text: In der passenden Größe, mit Video-Equipment, digitalen und klassischen Whiteboards.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: meeting-room-suedtribuene.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
+      - title: Huddle Rooms
+        text: Gemütlich, inspirierend und praktisch zugleich.
+        icon: huddle-room-brauerei.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
+      - title: Workgarden
+        text: Gelassen arbeiten, zusammen kochen und essen, kreative Workshops, spannende Events.
+        icon: workgarden-complete.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
+      - title: Workplace Phoenixsee
+        text: Ergonomische Arbeitsplätze, ruhig, pragmatisch aber mit Style.
+        icon: workplace-phoenixsee.jpg
         url: '#'
       - title: Project 5
         text: This is a very short project description.
