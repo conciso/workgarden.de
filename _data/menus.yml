@@ -4,12 +4,12 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: Workgarden
-  url: /#workgarden
+  url: #workgarden
 - title: Angebote
-  url: /#services
+  url: #services
 - title: Impressionen
-  url: /#portfolio
+  url: #portfolio
 - title: Events
-  url: /#events
+  url: #events
 - title: Kontakt
-  url: /#contacts
+  url: #contacts
