@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: WORKGARDEN ... for you
+  title: WORKGARDEN ... for you!
   action: # action button is optional
     label: EVENTS, WORKSHOPS & CO-WORKING ...
     url: '#workgarden'
@@ -14,7 +14,7 @@ sections:
     text: Im CONCISO WORKGARDEN finden Sie alles für agiles und innovatives Arbeiten. Für erfolgreiche Events, Workshops oder einfach gutes Co-Working. 
     actions:
       - title: Kontakt aufnehmen!
-        url: '#contact'
+        url: '#contacts'
         class: btn-light
 
   - type: services.html
