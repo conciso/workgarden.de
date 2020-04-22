@@ -157,6 +157,7 @@ sections:
       url: 'https://www.xing.com/companies/conciso'
     - title: +49 231 5648 450
       icon: fa-phone
+      url: 'tel:+492315648450'
   
   - type: address.html
     section_id: address
