@@ -174,6 +174,7 @@ sections:
       title: Telefon
       text: >
         +49 231 5648 450
+      url: 'tel:+492315648450'
 
   - type: aside.html
     section_id: aside
