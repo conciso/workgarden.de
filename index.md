@@ -41,60 +41,60 @@ sections:
         text: Sie suchen eine coole Location für Ihre nächste Veranstaltung?
         icon: Conciso-Workgarden_Ambient_1.jpg
         url: '#'
-      - title: Meeting Rooms
-        text: In der passenden Größe, mit Video-Equipment, digitalen und klassischen Whiteboards.
+      - title: Workgarden
+        text: Gelassen arbeiten, zusammen kochen und essen, kreative Workshops, spannende Events.
         icon: Conciso-Workgarden_Ambient_2.jpg
         url: '#'
       - title: Huddle Rooms
         text: Gemütlich, inspirierend und praktisch zugleich.
         icon: Conciso-Workgarden_Ambient_3.jpg
         url: '#'
-      - title: Workgarden
-        text: Gelassen arbeiten, zusammen kochen und essen, kreative Workshops, spannende Events.
+      - title: Co-Working
+        text: TODO
         icon: Conciso-Workgarden_CoWorking_1.jpg
         url: '#'
-      - title: Workplace Phoenixsee
-        text: Ergonomische Arbeitsplätze, ruhig, pragmatisch aber mit Style.
+      - title: Co-Working
+        text: TODO
         icon: Conciso-Workgarden_CoWorking_2.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+      - title: Co-Working
+        text: TODO
         icon: Conciso-Workgarden_CoWorking_3.jpg
         url: '#'
       - title: YOUR WORKSHOP
         text: Sie planen einen Workshop oder ein Training?
         icon: Conciso-Workgarden_CoWorking_4.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: Meeting Rooms
+        text: In der passenden Größe, mit Video-Equipment, digitalen und klassischen Whiteboards.
         icon: Conciso-Workgarden_CoWorking_5.jpg
         url: '#'
-      - title: Project 7
-        text: This is a very short project description.
+      - title: Your Event
+        text: TODO
         icon: Conciso-Workgarden_Event_1.jpg
         url: '#'
-      - title: Project 8
-        text: This is a very short project description.
+      - title: Your Event
+        text: TODO
         icon: Conciso-Workgarden_Event_2.jpg
         url: '#'
-      - title: Project 9
-        text: This is a very short project description.
+      - title: Your Event
+        text: TODO
         icon: Conciso-Workgarden_Event_3.jpg
         url: '#'
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Your Event
+        text: TODO
         icon: Conciso-Workgarden_Event_4.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: Your Workshop
+        text: TODO
         icon: Conciso-Workgarden_Workshop_1.jpg
         url: '#'
-      - title: Project 7
-        text: This is a very short project description.
+      - title: Your Workshop
+        text: TODO
         icon: Conciso-Workgarden_Workshop_3.jpg
         url: '#'
-      - title: Project 8
-        text: This is a very short project description.
+      - title: Your Workshop
+        text: TODO
         icon: Conciso-Workgarden_Workshop_4.jpg
         url: '#'
 
