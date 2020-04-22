@@ -13,8 +13,8 @@ sections:
     title: Agiles Arbeiten in inspirierender Atmosphäre
     text: Im CONCISO WORKGARDEN finden Sie alles für agiles und innovatives Arbeiten. Für erfolgreiche Events, Workshops oder einfach gutes Co-Working. 
     actions:
-      - title: Impressionen
-        url: '#portfolio'
+      - title: YOUR SPACE!
+        url: '#services'
         class: btn-light
 
   - type: services.html
@@ -28,7 +28,7 @@ sections:
       - title: YOUR WORKSHOP
         text: Sie planen einen Workshop oder ein Training?
         icon: fa-chalkboard-teacher
-      - title: CO-WORKING
+      - title: YOU CO-WORKING
         text: Sie sind Freelancer und suchen eine inspiriende Arbeitsumgebung?
         icon: fa-laptop-code
 
