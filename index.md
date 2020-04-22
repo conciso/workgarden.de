@@ -37,66 +37,67 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: YOUR EVENT
-        text: Sie suchen eine coole Location für Ihre nächste Veranstaltung?
+      - title: WILLKOMMEN ...
+        text: ... zu ihren Events, Workshops oder ihrem Arbeitsplatz. Entspannt und inspirierend.
         icon: Conciso-Workgarden_Ambient_1.jpg
         url: '#'
-      - title: Workgarden
-        text: Gelassen arbeiten, zusammen kochen und essen, kreative Workshops, spannende Events.
+      - title: DER WORKGARDEN ...
+        text: ... ist ein lichtdurchfluteter natürlicher Raum mit vielfältigen Möglichkeiten.
         icon: Conciso-Workgarden_Ambient_2.jpg
         url: '#'
-      - title: Huddle Rooms
-        text: Gemütlich, inspirierend und praktisch zugleich.
-        icon: Conciso-Workgarden_Ambient_3.jpg
-        url: '#'
-      - title: Co-Working
-        text: TODO
-        icon: Conciso-Workgarden_CoWorking_1.jpg
-        url: '#'
-      - title: Co-Working
-        text: TODO
-        icon: Conciso-Workgarden_CoWorking_2.jpg
-        url: '#'
-      - title: Co-Working
-        text: TODO
-        icon: Conciso-Workgarden_CoWorking_3.jpg
-        url: '#'
-      - title: YOUR WORKSHOP
-        text: Sie planen einen Workshop oder ein Training?
-        icon: Conciso-Workgarden_CoWorking_4.jpg
-        url: '#'
-      - title: Meeting Rooms
-        text: In der passenden Größe, mit Video-Equipment, digitalen und klassischen Whiteboards.
-        icon: Conciso-Workgarden_CoWorking_5.jpg
-        url: '#'
-      - title: Your Event
-        text: TODO
-        icon: Conciso-Workgarden_Event_1.jpg
-        url: '#'
-      - title: Your Event
-        text: TODO
-        icon: Conciso-Workgarden_Event_2.jpg
-        url: '#'
-      - title: Your Event
-        text: TODO
-        icon: Conciso-Workgarden_Event_3.jpg
-        url: '#'
-      - title: Your Event
-        text: TODO
-        icon: Conciso-Workgarden_Event_4.jpg
-        url: '#'
-      - title: Your Workshop
-        text: TODO
+      - title: YOUR WORKSHOP ...
+        text: ... mit viel Spaß in lockerer Atmosphäre.
         icon: Conciso-Workgarden_Workshop_1.jpg
         url: '#'
-      - title: Your Workshop
-        text: TODO
+      - title: YOUR WORKSHOP ...
+        text: ... mit flexiblen technischen Möglichkeiten und Raumaufteilungen.
         icon: Conciso-Workgarden_Workshop_3.jpg
         url: '#'
-      - title: Your Workshop
-        text: TODO
+      - title: YOUR WORKSHOP
+        text: ... auch mit ungewohnten Perspektiven, Situationen und Tools.
         icon: Conciso-Workgarden_Workshop_4.jpg
         url: '#'
+      - title: HUDDLE ROOMS ...
+        text: ... als gemütliche Rückzugsorte zur Inspiration oder entspannten Besprechung.
+        icon: Conciso-Workgarden_Ambient_3.jpg
+        url: '#'
+      - title: CO-WORKING ...
+        text: ... konzentriert in ruhiger Atmosphäre und technisch perfektem Umfeld.
+        icon: Conciso-Workgarden_CoWorking_1.jpg
+        url: '#'
+      - title: CO-WORKING ...
+        text: ... mit wertvollem Austausch zwischen gleichgesinnten Experten.
+        icon: Conciso-Workgarden_CoWorking_2.jpg
+        url: '#'
+      - title: CO-WORKING ...
+        text: ... an Arbeitsplätzen nach dem neuesten Stand der Office Architektur.
+        icon: Conciso-Workgarden_CoWorking_3.jpg
+        url: '#'
+      - title: MEETINGS ...
+        text: ... spontan oder geplant in bequemen hellen Break-Out-Rooms.
+        icon: Conciso-Workgarden_CoWorking_4.jpg
+        url: '#'
+      - title: MEETING ROOMS ...
+        text: ... in passenden Größen, mit Video-Equipment und klassischen wie digitalen Whiteboards.
+        icon: Conciso-Workgarden_CoWorking_5.jpg
+        url: '#'
+      - title: YOUR EVENT ...
+        text: ... im Workgarden in gelöster Stimmung und mit spannenden Gesprächen.
+        icon: Conciso-Workgarden_Event_1.jpg
+        url: '#'
+      - title: YOUR EVENT ...
+        text: ... mit reichlich Raum für Ihre Inhalte.
+        icon: Conciso-Workgarden_Event_2.jpg
+        url: '#'
+      - title: YOUR EVENT ...
+        text: ... mit tollem Austausch und Inspiration.
+        icon: Conciso-Workgarden_Event_3.jpg
+        url: '#'
+      - title: YOUR EVENT ...
+        text: ... natürlich auch mit leiblichen Genüssen.
+        icon: Conciso-Workgarden_Event_4.jpg
+        url: '#'
+
 
   - type: events.html
     section_id: events
