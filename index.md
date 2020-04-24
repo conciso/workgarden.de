@@ -28,7 +28,7 @@ sections:
       - title: YOUR WORKSHOP
         text: Sie planen einen Workshop oder ein Training?
         icon: fa-chalkboard-teacher
-      - title: YOU CO-WORKING
+      - title: YOUR CO-WORKING
         text: Sie sind Freelancer und suchen eine inspiriende Arbeitsumgebung?
         icon: fa-laptop-code
 
