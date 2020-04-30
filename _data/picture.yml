@@ -9,5 +9,5 @@ markup_presets:
   default:
     attributes:
       img: 'class="img-fluid"'
-    widths: [375,650]
+    widths: [450,650]
     formats: [webp, original]
