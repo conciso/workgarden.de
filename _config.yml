@@ -18,11 +18,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-analytics
+  - jekyll_picture_tag
 exclude:
   - Gemfile
   - Gemfile.lock
   - build-in-docker.sh
   - README.md
+
+picture: 
+  suppress_warnings: true
 
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
