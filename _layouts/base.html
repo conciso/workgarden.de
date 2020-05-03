@@ -9,8 +9,17 @@
 
   <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   
-  <link rel="shortcut icon" href="assets/img/workgarden-favicon.png">
-  <link rel="apple-touch-icon" href="assets/img/workgarden-favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="/workgarden-favicon.ico">
+
+  <link rel="icon" type="image/png" href="assets/img/workgarden-favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="assets/img/workgarden-favicon-96x96.png" sizes="96x96">
+
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="assets/img/workgarden-mstile-144x144.png">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/workgarden-favicon-180x180.png">
+
+
   <!-- Custom Fonts -->
   <link rel="stylesheet" href="assets/css/all.min.css">
   <!-- Plugin CSS -->
