@@ -107,17 +107,19 @@ sections:
     actions:
       - image: assets/img/events/webinar-icon.jpg
         title: >+
-          April 23 @ 12:00 - 13:00
-          **Masterclass Online-Meetings**
+          Mai 28 @ 12:00 - 13:00 <br/>
+          **Agile Online-Meetings**
         text: >-
-          In unserem Webinar erfahren Sie, wie Sie Ihre Online-Meetings noch besser machen, welche Möglichkeiten es abseits des üblichen Screensharing gibt.
+          In unserem zweiten Webinar zeigen unsere Gastgeber und Agile Coaches Thorsten Kamann und Jens Trompeter, wie man mit Miro und JIRA / Confluence agiles Anforderungsmanagement erfolgreich in verteilten Teams durchführt.
+        url: 'https://www.meetup.com/de-DE/Agile-Coaching-Meetup/events/270291844/'
       - image: assets/img/events/meetup-herz-kopf.jpg
         title: >+
           November 5 @ 18:00 - 21:00
           **Herz über Kopf … oder vielleicht doch umgekehrt?**
         text: >-
           Vom Bauchgefühl zu datenfundierten Marketing Entscheidungen
-  
+        url: 'https://www.meetup.com/de-DE/Agile-Coaching-Meetup/events/268447235/'
+        
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
