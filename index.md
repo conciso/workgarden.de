@@ -107,11 +107,11 @@ sections:
     actions:
       - image: assets/img/events/webinar-icon.jpg
         title: >+
-          Mai 28 @ 12:00 - 13:00 <br/>
-          **Agile Online-Meetings**
+          Juli 08 @ 18:00 - 19:00 <br/>
+          **JUG Dortmund Online - Keycloak Vortrag**
         text: >-
-          In unserem zweiten Webinar zeigen unsere Gastgeber und Agile Coaches Thorsten Kamann und Jens Trompeter, wie man mit Miro und JIRA / Confluence agiles Anforderungsmanagement erfolgreich in verteilten Teams durchführt.
-        url: 'https://www.meetup.com/de-DE/Agile-Coaching-Meetup/events/270291844/'
+          Die open-source Identity- und Accessmanagement-Lösung Keycloak erfreut sich in den letzten Jahren weiter Verbreitung. In diesem Webinar stellt Sven-Torben Janus Keycloak kurz vor und zeigt anhand eines konkreten Beispiel, wie vorhandene Funktionalität anpasst und erweitert. 
+        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/271472268/'
       - image: assets/img/events/meetup-herz-kopf.jpg
         title: >+
           November 5 @ 18:00 - 21:00
