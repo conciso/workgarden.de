@@ -107,10 +107,10 @@ sections:
     actions:
       - image: assets/img/events/webinar-icon.jpg
         title: >+
-          Juli 08 @ 18:00 - 19:00 <br/>
-          **JUG Dortmund Online - AdoptOpenJDK - Making Java free again **
+          August 18 @ 18:00 - 20:00 <br/>
+          **JUG Dortmund Online - AdoptOpenJDK - Making Java free again**
         text: >-
-          AdoptOpenJDK is rapidly becoming a leading provider of OpenJDK™ binaries. With over 140 million downloads in the last year, it is now a serious contender for your production usage of Java™. AdoptOpenJDK provides prebuilt OpenJDK™ binaries from a fully open source set of build scripts and infrastructure. This talk will cover how we build on over 15 different platforms, execute over 87 million tests and distribute OpenJDK™ binaries to millions of users. We will also cover how AdoptOpenJDK binaries compare against the Java™ binaries that you use today. If you're curious to understand the difference between OpenJDK™, Oracle Java™, AdoptOpenJDK and all the other distributions, then this is the talk for you!
+          AdoptOpenJDK is rapidly becoming a leading provider of OpenJDK™ binaries. With over 140 million downloads in the last year, it is now a serious contender for your production usage of Java™. This talk will cover how we build on over 15 different platforms, execute over 87 million tests and distribute OpenJDK™ binaries to millions of users. If you're curious to understand the difference between OpenJDK™, Oracle Java™, AdoptOpenJDK and all the other distributions, then this is the talk for you!
         url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/272181147/'
       - image: assets/img/events/meetup-herz-kopf.jpg
         title: >+
