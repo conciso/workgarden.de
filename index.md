@@ -108,10 +108,10 @@ sections:
       - image: assets/img/events/webinar-icon.jpg
         title: >+
           Juli 08 @ 18:00 - 19:00 <br/>
-          **JUG Dortmund Online - Keycloak Vortrag**
+          **JUG Dortmund Online - AdoptOpenJDK - Making Java free again **
         text: >-
-          Die open-source Identity- und Accessmanagement-Lösung Keycloak erfreut sich in den letzten Jahren weiter Verbreitung. In diesem Webinar stellt Sven-Torben Janus Keycloak kurz vor und zeigt anhand eines konkreten Beispiel, wie vorhandene Funktionalität anpasst und erweitert. 
-        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/271472268/'
+          AdoptOpenJDK is rapidly becoming a leading provider of OpenJDK™ binaries. With over 140 million downloads in the last year, it is now a serious contender for your production usage of Java™. AdoptOpenJDK provides prebuilt OpenJDK™ binaries from a fully open source set of build scripts and infrastructure. This talk will cover how we build on over 15 different platforms, execute over 87 million tests and distribute OpenJDK™ binaries to millions of users. We will also cover how AdoptOpenJDK binaries compare against the Java™ binaries that you use today. If you're curious to understand the difference between OpenJDK™, Oracle Java™, AdoptOpenJDK and all the other distributions, then this is the talk for you!
+        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/272181147/'
       - image: assets/img/events/meetup-herz-kopf.jpg
         title: >+
           November 5 @ 18:00 - 21:00
