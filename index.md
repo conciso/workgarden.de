@@ -98,7 +98,6 @@ sections:
         icon: Conciso-Workgarden_Event_4.jpg
         url: '#'
 
-
   - type: events.html
     section_id: events
     title: Nächste Events
@@ -112,12 +111,47 @@ sections:
         text: >-
           AdoptOpenJDK is rapidly becoming a leading provider of OpenJDK™ binaries. With over 140 million downloads in the last year, it is now a serious contender for your production usage of Java™. This talk will cover how we build on over 15 different platforms, execute over 87 million tests and distribute OpenJDK™ binaries to millions of users. If you're curious to understand the difference between OpenJDK™, Oracle Java™, AdoptOpenJDK and all the other distributions, then this is the talk for you!
         url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/272181147/'
+      - image: assets/img/events/diwodo20.jpg
+        title: >+
+          November 2 @ 18:00 - 20:00
+          **Software Engineering im Zeitalter der Digitalisierung**
+        text: >-
+          Mehr denn je kommt es in der heutigen Softwareentwicklung darauf an, qualitativ höchstwertige Software mit kurzen Feedbackzyklen und hoher Frequenz bei oftmals schwammigen und wechselnden Anforderungen zu liefern. In dieser Session wollen wir auch anhand konkreter Projektbeispiele diskutieren, wie zeitgemäßes Software Engineering aussieht und auch einen kleinen Blick in die Zukunft wagen: worauf müssen wir uns in den nächsten Jahren einstellen? Was sind die großen Trends, die sich am Horizont abzeichnen?
+        url: 'https://conciso.de/event/diwodo-softwareentwicklung/'
+      - image: assets/img/events/diwodo20.jpg
+        title: >+
+          November 3 @ 18:00 - 20:00
+          **Improve your lead time – Produkte schneller marktreif**
+        text: >-
+          Die Entwicklung eines einzigartigen Produkts erweist sich oftmals schwieriger als gedacht. Produkte müssen stark kundenorientiert sein, eine Fülle von Features bieten und schnell marktreif sein. Das Improve your lead time-Framework adressiert diese Herausforderungen, in dem es der Anforderungsphase eine klare und einfache Struktur gibt. Dabei ist es mit Customer Journeys kundenzentriert und fördert die abteilungs&shy;übergreifende Zusammenarbeit.
+        url: 'https://conciso.de/event/diwodo-improve-lead-time/'
+      - image: assets/img/events/iterate-ruhr.jpg
+        title: >+
+          November 5 - November 6
+          **ITERATE=>RUHR: Verhaltensbezogene Codeanalyse**
+        text: >-
+          In diesem Vortrag lernt ihr, warum technische Schulden nicht technisch sind. Ihr werdet sehen, warum die Code-Historie für eine Analyse von Schulden wichtig ist und was das alles mit unserem Verhalten zu tun hat.
+        url: 'https://iterate.ruhr'
+      - image: assets/img/events/iterate-ruhr.jpg
+        title: >+
+          November 5 - November 6
+          **ITERATE=>RUHR: Wie sage ich es meinem Tester?**
+        text: >-
+          In vielen Projekten sind Entwickler und Tester nach wie vor von einander getrennt und arbeiten für sich alleine, ohne ernsthaft miteinander zu kommunizieren. In diesem Vortrag werden die Ergebnisse von Interviews mit Entwicklern und Testern vorgestellt. Es ist der Versuch, eine Brücke zu schlagen und für das Verständnis für die Probleme beider Gruppen zu werben, um so den Keim für einen Kulturwandel zu legen.
+        url: 'https://iterate.ruhr'
+      - image: assets/img/events/iterate-ruhr.jpg
+        title: >+
+          November 5 - November 6
+          **ITERATE=>RUHR: Event Storming für Tester**
+        text: >-
+          In den letzten Jahren hat sich Event Storming zum de facto Standard im Domain Driven Design entwickelt. Aber leider werden in den meisten Fällen die Business Prozesse ohne die dazugehörigen Tests modelliert. In diesem Workshop werden wir diesen fehlenden Schritt gehen.  Dazu nutzen wir die Möglichkeiten des Event Stormings für die Entwicklung von Testfällen im BDD Stil.
+        url: 'https://iterate.ruhr'
       - image: assets/img/events/meetup-herz-kopf.jpg
         title: >+
           November 5 @ 18:00 - 21:00
           **Herz über Kopf … oder vielleicht doch umgekehrt?**
         text: >-
-          Vom Bauchgefühl zu datenfundierten Marketing Entscheidungen
+          Vom Bauchgefühl zu datenfundierten Marketing Entscheidungen.
         url: 'https://www.meetup.com/de-DE/Agile-Coaching-Meetup/events/268447235/'
         
   - type: contact.html
