@@ -2,12 +2,14 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-gem "github-pages", "~> 202"
+gem "github-pages", "~> 207"
 
 group :noupdate do
   gem "ffi", "= 1.12.1"
   gem "nokogiri", "1.10.8"
 end
+
+gem 'jekyll', '>=3.9', '<4'
 
 group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.2"
