@@ -104,13 +104,6 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/events/stay-tuned.jpg
     actions:
-      - image: assets/img/events/jug.jpg
-        title: >+
-          Sep 29 @ 18:00 - 20:00<br/>
-          **Webinar: Testcontainers: A year-(or-more)-in-review**
-        text: >-
-          Unit testing is fine, but without proper integration testing, especially if you work with external resources like databases and other services, you might not know how your application will actually behave once it has been deployed to the real production environment. Before Docker, configuring the environment for integration testing was painful – people were using fake database implementations, mocking servers, usually it was not cross-platform as well. However, thanks to Docker, now we can quickly prepare the environment for our tests. In this talk, Kevin would like to show how you can use Testcontainers.
-        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/273340648/'
       - image: assets/img/events/webinar-icon.jpg
         title: >+
           Oktober 8 @ 12:00 - 13:00 <br/>
@@ -118,6 +111,13 @@ sections:
         text: >-
           In diesem Webinar zeigen wir Ihnen, wie UX-Design in die Teams einer agilen Produktentwicklung integriert werden kann. Anhand eines Real-Life Beispiels einer Produktentwicklung erläutern wir eine mögliche Arbeitsweise und zeigen, wie die Ergebnisse der verschiedenen Phasen des UX-Design-Flows transparent in den Implementierungsplan eines Produktfeatures aufgenommen werden können.
         url: 'https://conciso.de/event/ux-design-in-der-agilen-produktentwicklung-webinar/'
+      - image: assets/img/events/jug.jpg
+        title: >+
+          Oct 27 @ 18:00 - 20:00<br/>
+          **JUG Dortmund Online - Eine Reise durch die JDKs**
+        text: >-
+          Viele von Euch arbeiten noch mit JDK 8. Daher möchte ich Euch mitnehmen auf die Reise durch die JDKs. Wir starten unsere Reise bei JDK 8 und reisen bis zur aktuellen Version, außerdem wagen wir einen Blick auf die Attraktionen der zukünftigen Versionen. -- Vortragende: Sandra Gerberding
+        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/273721230/'
       - image: assets/img/events/diwodo20.jpg
         title: >+
           November 2 @ 18:00 - 20:00
