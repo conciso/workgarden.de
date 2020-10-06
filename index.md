@@ -104,6 +104,13 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/events/stay-tuned.jpg
     actions:
+      - image: assets/img/events/jug.jpg
+        title: >+
+          Sep 29 @ 18:00 - 20:00<br/>
+          **Webinar: Testcontainers: A year-(or-more)-in-review**
+        text: >-
+          Unit testing is fine, but without proper integration testing, especially if you work with external resources like databases and other services, you might not know how your application will actually behave once it has been deployed to the real production environment. Before Docker, configuring the environment for integration testing was painful – people were using fake database implementations, mocking servers, usually it was not cross-platform as well. However, thanks to Docker, now we can quickly prepare the environment for our tests. In this talk, Kevin would like to show how you can use Testcontainers.
+        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/273340648/'
       - image: assets/img/events/webinar-icon.jpg
         title: >+
           Oktober 8 @ 12:00 - 13:00 <br/>
