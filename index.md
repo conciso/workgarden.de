@@ -104,13 +104,6 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/events/stay-tuned.jpg
     actions:
-      - image: assets/img/events/webinar-icon.jpg
-        title: >+
-          Oktober 8 @ 12:00 - 13:00 <br/>
-          **Webinar: UX-Design in der agilen Produktentwicklung**
-        text: >-
-          In diesem Webinar zeigen wir Ihnen, wie UX-Design in die Teams einer agilen Produktentwicklung integriert werden kann. Anhand eines Real-Life Beispiels einer Produktentwicklung erläutern wir eine mögliche Arbeitsweise und zeigen, wie die Ergebnisse der verschiedenen Phasen des UX-Design-Flows transparent in den Implementierungsplan eines Produktfeatures aufgenommen werden können.
-        url: 'https://conciso.de/event/ux-design-in-der-agilen-produktentwicklung-webinar/'
       - image: assets/img/events/jug.jpg
         title: >+
           Oct 27 @ 18:00 - 20:00<br/>
@@ -132,27 +125,6 @@ sections:
         text: >-
           Die Entwicklung eines einzigartigen Produkts erweist sich oftmals schwieriger als gedacht. Produkte müssen stark kundenorientiert sein, eine Fülle von Features bieten und schnell marktreif sein. Das Improve your lead time-Framework adressiert diese Herausforderungen, in dem es der Anforderungsphase eine klare und einfache Struktur gibt. Dabei ist es mit Customer Journeys kundenzentriert und fördert die abteilungs&shy;übergreifende Zusammenarbeit.
         url: 'https://conciso.de/event/diwodo-improve-lead-time/'
-      - image: assets/img/events/iterate-ruhr.jpg
-        title: >+
-          November 5 - November 6
-          **ITERATE=>RUHR: Verhaltensbezogene Codeanalyse**
-        text: >-
-          In diesem Vortrag lernt ihr, warum technische Schulden nicht technisch sind. Ihr werdet sehen, warum die Code-Historie für eine Analyse von Schulden wichtig ist und was das alles mit unserem Verhalten zu tun hat.
-        url: 'https://iterate.ruhr'
-      - image: assets/img/events/iterate-ruhr.jpg
-        title: >+
-          November 5 - November 6
-          **ITERATE=>RUHR: Wie sage ich es meinem Tester?**
-        text: >-
-          In vielen Projekten sind Entwickler und Tester nach wie vor von einander getrennt und arbeiten für sich alleine, ohne ernsthaft miteinander zu kommunizieren. In diesem Vortrag werden die Ergebnisse von Interviews mit Entwicklern und Testern vorgestellt. Es ist der Versuch, eine Brücke zu schlagen und für das Verständnis für die Probleme beider Gruppen zu werben, um so den Keim für einen Kulturwandel zu legen.
-        url: 'https://iterate.ruhr'
-      - image: assets/img/events/iterate-ruhr.jpg
-        title: >+
-          November 5 - November 6
-          **ITERATE=>RUHR: Event Storming für Tester**
-        text: >-
-          In den letzten Jahren hat sich Event Storming zum de facto Standard im Domain Driven Design entwickelt. Aber leider werden in den meisten Fällen die Business Prozesse ohne die dazugehörigen Tests modelliert. In diesem Workshop werden wir diesen fehlenden Schritt gehen.  Dazu nutzen wir die Möglichkeiten des Event Stormings für die Entwicklung von Testfällen im BDD Stil.
-        url: 'https://iterate.ruhr'
       - image: assets/img/events/meetup-herz-kopf.jpg
         title: >+
           November 5 @ 18:00 - 21:00
