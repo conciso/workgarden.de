@@ -107,32 +107,10 @@ sections:
       - image: assets/img/events/jug.jpg
         title: >+
           Oct 27 @ 18:00 - 20:00<br/>
-          **JUG Dortmund Online - Eine Reise durch die JDKs**
+          **JUG Dortmund Online - Vom Treiber bis zum Repository: Java-Anwendungen mit Neo4j**
         text: >-
-          Viele von Euch arbeiten noch mit JDK 8. Daher möchte ich Euch mitnehmen auf die Reise durch die JDKs. Wir starten unsere Reise bei JDK 8 und reisen bis zur aktuellen Version, außerdem wagen wir einen Blick auf die Attraktionen der zukünftigen Versionen. -- Vortragende: Sandra Gerberding
-        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/273721230/'
-      - image: assets/img/events/diwodo20.jpg
-        title: >+
-          November 2 @ 18:00 - 20:00
-          **Software Engineering im Zeitalter der Digitalisierung**
-        text: >-
-          Mehr denn je kommt es in der heutigen Softwareentwicklung darauf an, qualitativ höchstwertige Software mit kurzen Feedbackzyklen und hoher Frequenz bei oftmals schwammigen und wechselnden Anforderungen zu liefern. In dieser Session wollen wir auch anhand konkreter Projektbeispiele diskutieren, wie zeitgemäßes Software Engineering aussieht und auch einen kleinen Blick in die Zukunft wagen: worauf müssen wir uns in den nächsten Jahren einstellen? Was sind die großen Trends, die sich am Horizont abzeichnen?
-        url: 'https://conciso.de/event/diwodo-softwareentwicklung/'
-      - image: assets/img/events/diwodo20.jpg
-        title: >+
-          November 3 @ 18:00 - 20:00
-          **Improve your lead time – Produkte schneller marktreif**
-        text: >-
-          Die Entwicklung eines einzigartigen Produkts erweist sich oftmals schwieriger als gedacht. Produkte müssen stark kundenorientiert sein, eine Fülle von Features bieten und schnell marktreif sein. Das Improve your lead time-Framework adressiert diese Herausforderungen, in dem es der Anforderungsphase eine klare und einfache Struktur gibt. Dabei ist es mit Customer Journeys kundenzentriert und fördert die abteilungs&shy;übergreifende Zusammenarbeit.
-        url: 'https://conciso.de/event/diwodo-improve-lead-time/'
-      - image: assets/img/events/meetup-herz-kopf.jpg
-        title: >+
-          November 5 @ 18:00 - 21:00
-          **Herz über Kopf … oder vielleicht doch umgekehrt?**
-        text: >-
-          Vom Bauchgefühl zu datenfundierten Marketing Entscheidungen.
-        url: 'https://www.meetup.com/de-DE/Agile-Coaching-Meetup/events/268447235/'
-        
+          Möchte man im Spring-Ökosystem auf eine Neo4j Datenbank zugreifen und Hilfe beim Objektmapping bekommen, so ist Spring Data Neo4j der de-facto Standard. Wir beginnen mit einer kurzen Einführung, was Neo4j bzw. eine Graphdatenbank überhaupt ist und wie man selber in kürzester Zeit seine eigenen Instanz gestartet bekommt. Danach werden wir uns die verschiedenen Abstraktionsebenen anschauen, auf denen mit einer laufenden Neo4j Datenbank interagiert werden kann.
+        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/275038941/'       
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
