@@ -106,7 +106,7 @@ sections:
     actions:
       - image: assets/img/events/jug.jpg
         title: >+
-          Oct 27 @ 18:00 - 20:00<br/>
+          Dec 17 @ 18:00 - 20:00<br/>
           **JUG Dortmund Online - Vom Treiber bis zum Repository: Java-Anwendungen mit Neo4j**
         text: >-
           Möchte man im Spring-Ökosystem auf eine Neo4j Datenbank zugreifen und Hilfe beim Objektmapping bekommen, so ist Spring Data Neo4j der de-facto Standard. Wir beginnen mit einer kurzen Einführung, was Neo4j bzw. eine Graphdatenbank überhaupt ist und wie man selber in kürzester Zeit seine eigenen Instanz gestartet bekommt. Danach werden wir uns die verschiedenen Abstraktionsebenen anschauen, auf denen mit einer laufenden Neo4j Datenbank interagiert werden kann.
