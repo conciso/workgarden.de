@@ -104,13 +104,21 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/events/stay-tuned.jpg
     actions:
+      - image: assets/img/events/logo_javaland.png
+        title: >+
+          Mar 16 @ 13:00 - 13:40<br/>
+          **JavaLand 2021 - E2E-Testing von Microservices**
+        text: >-
+          Lukas Pradel diskutiert in dieser Session auf der JavaLand 2021 die Vor- und Nachteile von E2E-Tests für Microservices, wesentliche Probleme und Lösungsstrategien.
+        url: 'https://programm.javaland.eu/2021/#/scheduledEvent/606603'  
       - image: assets/img/events/jug.jpg
         title: >+
-          Dec 17 @ 18:00 - 20:00<br/>
-          **JUG Dortmund Online - Vom Treiber bis zum Repository: Java-Anwendungen mit Neo4j**
+          Mar 30 @ 18:00 - 20:00<br/>
+          **JUG Dortmund Online - Reactive Programming mit Spring WebFlux**
         text: >-
-          Möchte man im Spring-Ökosystem auf eine Neo4j Datenbank zugreifen und Hilfe beim Objektmapping bekommen, so ist Spring Data Neo4j der de-facto Standard. Wir beginnen mit einer kurzen Einführung, was Neo4j bzw. eine Graphdatenbank überhaupt ist und wie man selber in kürzester Zeit seine eigenen Instanz gestartet bekommt. Danach werden wir uns die verschiedenen Abstraktionsebenen anschauen, auf denen mit einer laufenden Neo4j Datenbank interagiert werden kann.
-        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/275038941/'       
+          Reactive Programming verspricht eine effizientere Nutzung der Ressourcen und bessere Parallelisierung innerhalb der Anwendung. Doch was verbirgt sich hinter diesem Versprechen. Wie soll dieses Ziel erreicht werden und wo liegen die Unterschiede zur klassischen Programmierung?
+          Nach einer kurzen Einführung in die Theorie hinter der reaktiven Programmierung geht Lars auf die konkrete Nutzung von Project Reactor über Spring WebFlux ein.
+        url: 'https://www.meetup.com/de-DE/JUG-Dortmund/events/276414617/'      
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
