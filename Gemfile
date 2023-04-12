@@ -6,7 +6,7 @@ gem "github-pages", "~> 207"
 
 group :noupdate do
   gem "ffi", "= 1.12.1"
-  gem "nokogiri", "1.13.4"
+  gem "nokogiri", "1.14.3"
 end
 
 gem 'jekyll', '>=3.9', '<4'
